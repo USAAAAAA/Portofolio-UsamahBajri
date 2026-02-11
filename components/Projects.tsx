@@ -10,7 +10,7 @@ const projects = [
     description: "Menguji fungsionalitas dan performa website SISTA, menyusun laporan hasil uji, serta membuat dokumentasi BRD untuk kebutuhan sistem.",
     tags: ["SISTA", "BRD", "Testing"],
     icon: <FiCheckCircle />,
-    images: ["/images/projects/SIP-2.jpg", "/images/projects/SIP-3.jpg"],
+    images: ["/images/projects/test2.jpg", "/images/projects/test3.jpg"],
   },
   {
     title: "Website Al Mubarokah",
@@ -26,7 +26,7 @@ const projects = [
     description: "Mengembangkan sistem rekomendasi berdasarkan pola rating pengguna menggunakan Python dan metode Collaborative Filtering.",
     tags: ["Python", "ML", "Pearson"],
     icon: <FiGithub />,
-    images: ["/images/projects/SIP-4.jpg", "/images/projects/SIP-7.jpg"],
+    images: ["/images/projects/4.jpg", "/images/projects/2.jpg"],
   }
 ];
 
