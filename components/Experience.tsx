@@ -26,7 +26,7 @@ const experiences = [
     ],
     icon: <FiAward />,
     type: "Organization",
-    images: ["/images/experience/karate1.JPG", "/images/experience/karate2.JPG"],
+    images: ["/images/experience/karate1.jpg", "/images/experience/karate2.jpg"],
     color: "bg-red-600/10"
   }
 ];
