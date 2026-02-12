@@ -21,7 +21,7 @@ const experiences = [
     organization: "ITENAS",
     period: "2023 – 2024",
     description: [
-      "Memirim latihan rutin dan koordinasi kompetisi karate antar universitas.",
+      "Mengadakan latihan rutin dan koordinasi kompetisi karate antar universitas.",
       "Mengelola administrasi dan pengembangan anggota UKM Karate ITENAS."
     ],
     icon: <FiAward />,
