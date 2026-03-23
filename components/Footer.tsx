@@ -39,7 +39,7 @@ export default function Footer() {
               <div>
                 <p className="text-gray-500 text-[10px] uppercase tracking-widest mb-4 font-bold">Contact</p>
                 <a href="mailto:usamah.bajri@gmail.com" className="text-sm hover:text-yellow-500 transition-colors">
-                  usamah.bajri@gmail.com
+                  usamahhasan30@gmail.com
                 </a>
               </div>
             </div>
