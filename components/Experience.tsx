@@ -77,7 +77,7 @@ export default function Experience() {
 
                 {/* Bagian Kanan: 2 Foto Grid (Span 4) */}
                 <div className="lg:col-span-4 grid grid-cols-2 gap-4">
-                  <div className="relative aspect-[3/4] rounded-2xl overflow-hidden border border-white/5 shadow-2xl">
+                  <div className="relative aspect-3/4 rounded-2xl overflow-hidden border border-white/5 shadow-2xl">
                     <Image 
                       src={exp.images[0]} 
                       alt={`${exp.title} 1`} 
@@ -85,7 +85,7 @@ export default function Experience() {
                       className="object-cover grayscale hover:grayscale-0 transition-all duration-700" 
                     />
                   </div>
-                  <div className="relative aspect-[3/4] rounded-2xl overflow-hidden border border-white/5 shadow-2xl mt-8">
+                  <div className="relative aspect-3/4 rounded-2xl overflow-hidden border border-white/5 shadow-2xl mt-8">
                     <Image 
                       src={exp.images[1]} 
                       alt={`${exp.title} 2`} 
