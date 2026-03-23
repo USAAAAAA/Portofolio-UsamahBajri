@@ -59,7 +59,7 @@ export default function Hero() {
                 src="/images/hero/main.jpg"
                 alt="Usamah Hasan"
                 fill
-                className="object-fill grayscale group-hover:grayscale-0 transition-all duration-700 scale-105 group-hover:scale-100"
+                className="object-fit grayscale group-hover:grayscale-0 transition-all duration-700 scale-105 group-hover:scale-100"
                 priority
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[#05070A] via-transparent to-transparent opacity-60"></div>
